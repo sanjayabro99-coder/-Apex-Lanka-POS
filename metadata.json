@@ -1,0 +1,6 @@
+{
+  "name": "POS Bill & Change Calculator",
+  "description": "Windows PC සඳහා කලින් ඇතුලත් කල මිල ගණන්, භාණ්ඩ ප්‍රමාණය, මුළු එකතුව සහ කස්ටමර් ලබාදුන් මුදලින් ඉතුරු මුදල ගණනය කරන POS පද්ධතිය.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
